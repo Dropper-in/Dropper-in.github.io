@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "OUT OF BLUE"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Dropperin"
+name                     : "Dropper-in"
 description              : "An amazing website."
 url                      : "https://Dropper-in.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Dropper-in"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Hang** in there!"
-  location         : "Taking a nap"
+  bio              : "얼레벌레 굴러가는 중" #****
+  location         : "침대"
   email            :
   links:
     - label: "Email"
