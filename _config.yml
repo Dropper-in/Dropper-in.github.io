@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "얼레벌레 굴러가는 중" #****
   location         : "침대"
-  email            :
+  email            : "Dropperin59@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
